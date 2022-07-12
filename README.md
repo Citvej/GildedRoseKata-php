@@ -21,6 +21,6 @@ Then you can compare the results with the entries in `tests/approvals/ApprovalTe
 
 ## Other info
 - Above command could be run by texttest command, but in my case it didn't work, so the equivalent is above.
-- Because of reinitializing the repository, there are no changes visible from the original - only the solution. I hope that's okay.
+- Due to me having accidentally reinitialized the repository, there are no changes visible from the original - only the solution. I hope that's okay.
 
 ## For any additional info, don't hesitate to contact and ask me via neven.jevtic123@gmail.com
